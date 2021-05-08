@@ -1,6 +1,7 @@
 # Animated-Login-Desing-AndroidApp
 
 ## A basic animated UI design for your login screen
+- Backgrounds created using figma - https://www.figma.com/file/d9lIZqTZfx7eRqjkq7mpnn/Backgrounds-for-android-app
 
 <hr>
 
